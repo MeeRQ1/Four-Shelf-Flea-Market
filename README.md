@@ -14,7 +14,7 @@ Open <http://localhost:8000> in your browser. Pick a buyer to highlight matching
 
 ## Hosting
 
-The game uses static HTML, CSS, and JavaScript with its art and fonts included. For GitHub Pages, use the `main` branch and its root folder as the source.
+The game uses static HTML, CSS, and JavaScript with its art and fonts included. GitHub Pages deploys from the root of `main`.
 
 ## Development
 
